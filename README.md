@@ -45,8 +45,9 @@ Principais bibliotecas utilizadas:
 - `matplotlib`
 - `seaborn`
 
-> (opcional) imagem ilustrativa das análises em Python  
-<!-- ![Notebook Bank Marketing](images/notebook.png) -->
+Abaixo está a matriz de correlação utilizada na análise exploratória dos dados:
+
+![Heatmap de correlação do Bank Marketing](images/corr.png)
 
 
 ## 📊 Visualização no Power BI
@@ -57,23 +58,23 @@ O arquivo **Dashboard_Bank_Marketing.pbix** apresenta um dashboard interativo qu
 - Analisar taxa de conversão por idade, profissão e escolaridade;
 - Comparar desempenho por canal de contato;
 - Avaliar o impacto da duração e número de ligações na conversão;
-- Apoiar a tomada de decisão para novas campanhas de marketing.
 
-> (opcional) imagem ilustrativa do dashboard  
-<!-- ![Dashboard Bank Marketing](images/dashboard.png) -->
+A nível de exemplo, o dashboard a seguir demonstra variáveis relacionadas à conversão de clientes:
+
+![Desempenho Campanha Marketing](images/desempenho_campanha.png)
 
 
 ## 🗂️ Fonte dos Dados
 
-**UCI Machine Learning Repository — Bank Marketing Dataset**  
-Conjunto de dados público contendo informações sobre campanhas de marketing realizadas por telefone.
+- **UCI Machine Learning Repository — Bank Marketing Dataset**  
+  Conjunto de dados público contendo informações sobre campanhas de marketing realizadas por telefone.
 
-🔗 https://archive.ics.uci.edu/dataset/222/bank+marketing
+  🔗 https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 
-## 🎯 Objetivo do Projeto
+## 🎯 Objetivos do Projeto
 
-Este projeto tem como objetivo:
+Este projeto tem como objetivos:
 
 - Aplicar técnicas de **Análise Exploratória de Dados**;
 - Trabalhar com um dataset público real;
