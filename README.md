@@ -1,4 +1,4 @@
-# 📊 Bank Marketing — Análise de Dados
+# 🪙 Bank Marketing — Análise de Dados
 
 Este repositório contém uma **análise exploratória do Bank Marketing Dataset**, disponibilizado pela **UCI Machine Learning Repository**.  
 O objetivo é identificar **fatores que influenciam a adesão ao depósito a prazo (term deposit)** após campanhas de telemarketing, utilizando **Python** e **Power BI**.
